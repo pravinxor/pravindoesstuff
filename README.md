@@ -1,16 +1,18 @@
-### Hi there 👋
+# Pravin's Git
 
-<!--
-**pravindoesstuff/pravindoesstuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### E-Mail: pravinramana25@pm.me
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+xjMEX0qFShYJKwYBBAHaRw8BAQdAEMSS89PnGioU2lBmpZGtmlOcRw8qAlmz
+qLIrRq5aRNHNK3ByYXZpbnJhbWFuYTI1QHBtLm1lIDxwcmF2aW5yYW1hbmEy
+NUBwbS5tZT7CjwQQFgoAIAUCX0qFSgYLCQcIAwIEFQgKAgQWAgEAAhkBAhsD
+Ah4BACEJEFnO6yR7iBzFFiEEr7qeDZBJYGUVcraAWc7rJHuIHMUOWwD7Be2d
+Fe/sxecd/Rl/DMQ1Z3W/fL1vcHbG0gfCHhYSOLgA/00fT/O/Ds/dSCu/3h7Z
+Yr4NKgHpL+29l5dCuCLGT9ALzjgEX0qFShIKKwYBBAGXVQEFAQEHQMs1cKlf
+pVTRcycsj16ny3NNs7UL1oyIWBs99czYTcATAwEIB8J4BBgWCAAJBQJfSoVK
+AhsMACEJEFnO6yR7iBzFFiEEr7qeDZBJYGUVcraAWc7rJHuIHMW+EQD+NPNk
+CvrIuGC3fwk8IrlegTwjnLOsMT0QoIZKxO9lDbQA+wY253hgwKxzad3s3fwN
+oR56s5XPzSvLUyBbj+4JiHQL
+=nu/k
+-----END PGP PUBLIC KEY BLOCK-----
+```
